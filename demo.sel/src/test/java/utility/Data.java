@@ -46,6 +46,16 @@ public class Data {
 	}
 
 	
+
+	//pass
+	@XmlElement(name="pass")
+	public void setpass(String p) {
+		this.pass=p;
+	}
 	
+	public String getpass() {
+		return pass;
+	}
+
 
 }
