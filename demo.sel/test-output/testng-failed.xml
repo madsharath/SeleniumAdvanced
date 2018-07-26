@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="utility.MyListner"/>
+  </listeners>
+  <test name="Test2(failed)">
+    <classes>
+      <class name="utility.LoginTest">
+        <methods>
+          <include name="LoginInValid"/>
+        </methods>
+      </class> <!-- utility.LoginTest -->
+      <class name="test.Registration_test">
+        <methods>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- test.Registration_test -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->

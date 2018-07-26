@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<registrationData>
+
+<data>
+<Firstname>myfirstname</Firstname>
+<Lastname>mylastname</Lastname>
+<email>abc</email>
+<pass>pass</pass>
+</data>
+
+<data>
+<Firstname>yourfirstname</Firstname>
+<Lastname>yourlastname</Lastname>
+</data>
+
+</registrationData>
