@@ -10,7 +10,7 @@
     </classes>
   </test> <!-- Test -->
    
-  <test name="Test2">
+<!--   <test name="Test2">
     <classes>
     <listeners>
        <listener class-name = "utility.MyListner"></listener>
@@ -18,5 +18,5 @@
     
       <class name="utility.LoginTest"/>
     </classes>
-  </test> <!-- Test -->
+  </test> Test -->
 </suite> <!-- Suite -->
